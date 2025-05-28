@@ -1,2 +1,2 @@
-# web-page
-html and css for web pages of brands.
+# Product Showcase Webpage
+A sleek, responsive HTML & CSS design ideal for perfumes or any product.
